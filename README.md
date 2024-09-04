@@ -1,2 +1,2 @@
 # Banco-de-Dados
-Repositório para as aulas de programação Web I ministradas pelo professor Davi Vilar ;)
+Repositório para as aulas de Banco de Dados Davi Vilar ;)
